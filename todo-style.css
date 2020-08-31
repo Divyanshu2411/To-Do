@@ -1,9 +1,9 @@
 body{
     background-image: url(https://thumbs.dreamstime.com/z/colorful-bright-background-multi-colored-sticks-sweet-nice-candy-macro-shooting-149553309.jpg);
 }
+
 h1
 {
-    
     font-size: 4em;
     text-align: center;
     color: #501966;
@@ -19,6 +19,7 @@ h1
     width: 400px;
     margin-top: 50px;
 }
+
 #add-task{
     width: 100%;
     border: 2px solid lightgray;
@@ -28,12 +29,14 @@ h1
     text-align:center;
     font-size:0.9em;
 }
+
 #list{
     margin: 0;
     padding: 0;
     list-style: none;
     margin-top: 3%;
 }
+
 #list li{
     margin: 1% 0;
     border: 1px solid black;
