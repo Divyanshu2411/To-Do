@@ -66,4 +66,7 @@ h1
     top:1.5vh;
     margin-right: 15px;
 }
-
+input[type=checkbox]:checked + label{
+    text-decoration: line-through;
+    
+  }
